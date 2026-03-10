@@ -1,5 +1,5 @@
 # Lokesh-Kanagaraj
 Kaithi
-MAster
+Master
 Vikram
 Leo
